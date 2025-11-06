@@ -1,25 +1,68 @@
 <h1 align="center">Hi 👋, I'm Jasbir</h1>
-<h3 align="center">A Aspiring game developer from India</h3>
+<h3 align="center">Aspiring Game Developer and Software Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jasbir012&label=Profile%20views&color=0e75b6&style=flat" alt="jasbir012" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasbir012" alt="jasbir012" /></a> </p>
-
-- 🌱 I’m currently learning **Game development**
-
-- 👯 I’m looking to collaborate on **Game development projects**
-
-- 🤝 I’m looking for help with **Game development**
-
-- 📫 How to reach me **jasbirsgh343@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jasbir012&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=jasbir012&theme=onedark&margin-w=10" alt="GitHub Trophies" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasbir012&show_icons=true&locale=en&layout=compact" alt="jasbir012" /></p>
+### 🧠 About Me
+- 🎮 I’m currently learning **Game Development** using Unity & Blender.  
+- 🤝 I’m open to collaborating on **small indie or student projects**.  
+- 💬 I’m also exploring **C# and C++** for gameplay programming.  
+- 📫 Reach me at **jasbirsgh343@gmail.com**.  
+- 🌍 Currently building my **developer portfolio website**.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasbir012&show_icons=true&locale=en" alt="jasbir012" /></p>
+---
+
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/jasbir-singh12" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jasbirsgh343@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/jasbir012" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ⚙️ Languages & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/master/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="40" height="40" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jasbir012&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jasbir012&theme=tokyonight" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jasbir012&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
+
+---
+
+### 🧩 Current Focus
+> “Building small interactive projects to strengthen my fundamentals in game programming and design.”
+
