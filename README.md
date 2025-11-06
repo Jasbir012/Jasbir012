@@ -52,16 +52,18 @@
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jasbir012&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jasbir012&theme=tokyonight" alt="GitHub streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jasbir012&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=jasbir012&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jasbir012&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasbir012&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
+
 
 ### 🧩 Current Focus
 > “Building small interactive projects to strengthen my fundamentals in game programming and design.”
