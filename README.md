@@ -4,6 +4,13 @@
 ---
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Level-01%7CRookie-Dev-#64b5f6?style=for-the-badge&logo=unity" alt="Level Badge" />
+  <img src="https://img.shields.io/badge/XP-2300%2F5000-#ffb74d?style=for-the-badge&logo=steam" alt="XP Badge" />
+</p>
+
+---
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=jasbir012&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   &nbsp;&nbsp;
   <a href="https://github.com/ryo-ma/github-profile-trophy">
