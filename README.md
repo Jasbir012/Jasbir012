@@ -4,9 +4,10 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Level-01%7CRookie-Dev-#64b5f6?style=for-the-badge&logo=unity" alt="Level Badge" />
-  <img src="https://img.shields.io/badge/XP-2300%2F5000-#ffb74d?style=for-the-badge&logo=steam" alt="XP Badge" />
+  <img src="https://img.shields.io/badge/Level-01%20|%20Rookie%20Dev-blue?style=for-the-badge&logo=unity" alt="Level Badge" />
+  <img src="https://img.shields.io/badge/XP-2300%2F5000-orange?style=for-the-badge&logo=steam" alt="XP Badge" />
 </p>
+
 
 ---
 
