@@ -75,10 +75,10 @@
 
 <p align ="left">
   <img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width = "40" height="40" />
-  <img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" />
-  <img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" />
-  <img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" />
-  <img class="tool-icon" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Itch.io_logo.svg" alt="Itch.io" />
+  <img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width = "40" height="40"  />
+  <img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code"  width = "40" height="40" />
+  <img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width = "40" height="40"  />
+  <img class="tool-icon" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Itch.io_logo.svg" alt="Itch.io"  width = "40" height="40" />
 </p>
 
 
