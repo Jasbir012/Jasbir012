@@ -72,12 +72,27 @@
 </p>
 
 #### 🛠️ Tools & Platforms
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" />
- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/itchdotio.svg" alt="Itch.io" width="40" height="40" style="filter: invert(23%) sepia(94%) saturate(6400%) hue-rotate(353deg) brightness(102%) contrast(102%);" />
+<style>
+  .tool-icon {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+    transition: transform 0.2s ease, filter 0.3s ease;
+  }
+  .tool-icon:hover {
+    transform: scale(1.1);
+    filter: brightness(1.3);
+  }
+</style>
+
+<div>
+  <img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" />
+  <img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" />
+  <img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" />
+  <img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" />
+  <img class="tool-icon" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Itch.io_logo.svg" alt="Itch.io" />
+</div>
+
 
 
 
